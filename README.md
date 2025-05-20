@@ -112,6 +112,6 @@
 ## 📫 Contact
 
 - 📧 Email: ericsungho@naver.com  
-- 🌐 Blog/Portfolio: [링크](https://hotari.tistory.com/)
+- 🌐 Blog: [링크](https://hotari.tistory.com/)
 
 ---
