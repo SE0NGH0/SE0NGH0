@@ -76,9 +76,43 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SE0NGH0&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE0NGH0&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SE0NGH0&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SE0NGH0" width="45%" />
 </p>
+
+---
+
+## 🔝 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE0NGH0&layout=compact" width="45%">
+</p>
+
+---
+
+## 🔍 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SE0NGH0&label=Profile+Views" alt="visitor counter"/>
+</p>
+
+---
+
+## 💬 About Me
+
+> 저는 **C / Python 기반의 MCU 제어**, **Verilog 기반의 디지털 설계**, 그리고  
+> **STM32, Arduino, Raspberry Pi를 활용한 임베디드 시스템 개발**에 강점을 가지고 있어요.  
+> 실시간성, 구조적 확장성, 그리고 협업 중심 개발을 추구합니다.  
+> **사람을 위한 기술**을 만드는 개발자로 성장하고 있습니다. 🌱
+
+---
+
+## 📫 Contact
+
+- 📧 Email: ericsungho@naver.com  
+- 🌐 Blog/Portfolio: [링크](https://hotari.tistory.com/)
+
+---
