@@ -40,7 +40,6 @@
       <td>
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
       </td>
     </tr>
     <tr>
