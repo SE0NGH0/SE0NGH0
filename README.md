@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SeongHo Park</h1>
+<h1 align="center">prinf("SeongHo_Park");</h1>
 
 - 🔭 I’m currently working on **embedded systems and AI vision projects**
 - 🌱 I’m currently learning **ROS2, STM32, and AI-based object detection**
