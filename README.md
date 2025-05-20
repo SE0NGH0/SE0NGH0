@@ -36,13 +36,6 @@
       </td>
     </tr>
     <tr>
-      <td><b>AP</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Udoo-9B59B6?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
       <td><b>IDE</b></td>
       <td>
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
