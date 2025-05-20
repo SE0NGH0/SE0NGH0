@@ -5,8 +5,8 @@
 - 👨‍💻 My Project Portfolio: [See Repositories](https://github.com/SE0NGH0?tab=repositories)
 - 💬 Ask me about **C, Python, OpenCV, IoT, and machine learning**
 - 📫 How to reach me
-- E-mail : **ericsungho@naver.com**
-- Blog : **https://hotari.tistory.com**
+      - E-mail : **ericsungho@naver.com**
+      - Blog : **https://hotari.tistory.com**
 
 ---
 
