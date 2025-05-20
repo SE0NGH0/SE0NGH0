@@ -41,9 +41,9 @@
       <td><b>IDE & Tools</b></td>
       <td>
         <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Atmel Studio-0C2C56?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
       </td>
     </tr>
     <tr>
