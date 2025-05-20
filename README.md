@@ -1,8 +1,10 @@
 <h1 align="center">printf("SeongHo_Park");</h1>
 
-- 🔭 I’m currently working on **embedded systems and AI vision projects**
-- 🌱 I’m currently learning **ROS2, RTOS, STM32, and AI-based object detection**
-- 💬 Ask me about **C, Python, OpenCV, IoT, and machine learning**
+<h1 align="center">printf("SeongHo_Park");</h1>
+
+- 🔭 I’m currently developing real-world solutions in **embedded systems**, **robotics**, and **AI vision**  
+- 🌱 I’m actively exploring **ROS2**, **RTOS**, and **STM32-based control systems** through hands-on projects  
+- 💬 Ask me about **C, Python, OpenCV, real-time embedded design**, or **ROS-based development**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=HW%2FSW+Co-Design;C+%7C+Python+%7C+Verilog;STM32+%7C+ATmega128A;Arduino+%7C+Raspberry+Pi;ROS2+%7C+RTOS+%7C+OpenCV" />
