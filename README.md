@@ -5,7 +5,7 @@
 - 💬 Ask me about **C, Python, OpenCV, IoT, and machine learning**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=C+%7C+Python+%7C+Verilog;Arduino+%7C+STM32+%7C+ATmega128A;Raspberry+Pi+%7C+RTOS+%7C+ROS2+%7C+OpenCV;HW%2FSW+Co-Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=HW%2FSW+Co-Design;C+%7C+Python+%7C+Verilog;Arduino+%7C+STM32+%7C+ATmega128A;%7C+Raspberry+Pi;RTOS+%7C+ROS2+%7C+OpenCV" />
 </p>
 
 ---
