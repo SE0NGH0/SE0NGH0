@@ -31,9 +31,9 @@
     <tr>
       <td><b>MCU / SBC</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
         <img src="https://img.shields.io/badge/ATmega128A-E34F26?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
       </td>
     </tr>
