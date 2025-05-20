@@ -1,7 +1,7 @@
 <h1 align="center">printf("SeongHo_Park");</h1>
 
 - 🔭 I’m currently working on **embedded systems and AI vision projects**
-- 🌱 I’m currently learning **ROS2, STM32, and AI-based object detection**
+- 🌱 I’m currently learning **ROS2, RTOS, STM32, and AI-based object detection**
 - 💬 Ask me about **C, Python, OpenCV, IoT, and machine learning**
 
 <p align="center">
