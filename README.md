@@ -14,81 +14,67 @@
   <thead>
     <tr>
       <th>Category</th>
-      <th>Stack skills</th>
+      <th>Skills</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Languages & Code Rules</b></td>
+      <td><b>Languages</b></td>
       <td>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Verilog-BF0404?style=for-the-badge"/>
       </td>
     </tr>
     <tr>
-      <td><b>MCU</b></td>
+      <td><b>MCU / SBC</b></td>
       <td>
-        <img src="https://img.shields.io/badge/ATmega128A-003B70?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ATmega128A-E34F26?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>AP</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Udoo-9B59B6?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>IDE</b></td>
+      <td><b>IDE & Tools</b></td>
       <td>
         <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Atmel Studio-0C2C56?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>Server & DB</b></td>
+      <td><b>DB & Server</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Version Control & Collaboration</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td><b>OS</b></td>
       <td>
         <img src="https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><b>Platform & Library</b></td>
+      <td><b>Collaboration</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Libraries</b></td>
       <td>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       </td>
     </tr>
   </tbody>
 </table>
-
-
 
 ---
 
