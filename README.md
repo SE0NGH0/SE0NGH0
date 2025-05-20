@@ -24,22 +24,32 @@
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td><b>MCU</b></td>
       <td>
-        <img src="https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ATmega128A-003B70?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>AP</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Udoo-9B59B6?style=for-the-badge"/>
       </td>
     </tr>
     <tr>
       <td><b>IDE</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Atmel Studio-0C2C56?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -77,6 +87,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 ---
