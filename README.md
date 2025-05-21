@@ -1,7 +1,7 @@
 <h1 align="center">printf("SeongHo_Park");</h1>
 
 - 🔭 I’m currently developing real-world solutions in **embedded systems**, **robotics**, and **AI vision**  
-- 🌱 I’m actively exploring **ROS2**, **RTOS**, and **STM32-based control systems** through hands-on projects  
+- 🌱 I’m actively exploring **ROS2**, **RTOS**, and **ATmega128A & STM32-based control systems** through hands-on projects  
 - 💬 Ask me about **C, Python, OpenCV, real-time embedded design**, or **ROS-based development**
 
 <p align="center">
