@@ -1,4 +1,4 @@
-<h1 align="center">printf("SeongHo_Park");</h1>
+<h1 align="center">printf("SeongHo_Park\n");</h1>
 
 - 🔭 I’m currently developing real-world solutions in **embedded systems**, **robotics**, and **AI vision**  
 - 🌱 I’m actively exploring **ROS2**, **RTOS**, and **ATmega128A & STM32-based control systems** through hands-on projects  
