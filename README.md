@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing real-world solutions in **embedded systems**, **robotics**, and **AI vision**  
 - 🌱 I’m actively exploring **ROS2**, **RTOS**, and **ATmega128A & STM32-based control systems** through hands-on projects  
-- 💬 Ask me about **C, Python, OpenCV, real-time embedded design**, or **ROS-based development**
+- 💬 Ask me about **C, Python, OpenCV, real-time embedded design**, or **ROS2-based development**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=HW%2FSW+Co-Design;C+%7C+Python+%7C+Verilog;STM32+%7C+ATmega128A;Arduino+%7C+Raspberry+Pi;ROS2+%7C+RTOS+%7C+OpenCV" />
