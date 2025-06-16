@@ -92,13 +92,7 @@
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/
-      ?username=SE0NGH0
-      &layout=compact
-      &cache_seconds=7200"
-    width="45%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE0NGH0&layout=compact" width="45%">
 </p>
 
 ---
