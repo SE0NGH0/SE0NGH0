@@ -131,5 +131,6 @@
 
 - 📧 Email: ericsungho@naver.com  
 - 🌐 Blog: [링크](https://hotari.tistory.com/)
+- 📸 Instagram: [@ho_tari](https://www.instagram.com/ho_tari/)
 
 ---
