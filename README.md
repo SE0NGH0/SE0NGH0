@@ -85,7 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SE0NGH0&show_icons=true&theme=default" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" width="45%" />
 </p>
 
 ---
