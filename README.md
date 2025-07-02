@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/ATmega128A-E34F26?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Basys3-EE3124?style=for-the-badge&logo=xilinx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Basys3-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/Atmel Studio-0C2C56?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vivado-EE3124?style=for-the-badge&logo=xilinx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vivado-FFD700?style=for-the-badge&logo=xilinx&logoColor=white"/>
       </td>
     </tr>
     <tr>
