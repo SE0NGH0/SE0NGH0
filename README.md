@@ -35,6 +35,7 @@
         <img src="https://img.shields.io/badge/ATmega128A-E34F26?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetson Nano-3DDC84?style=for-the-badge&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/Basys3-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"/>
       </td>
     </tr>
