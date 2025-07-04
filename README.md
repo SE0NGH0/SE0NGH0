@@ -71,7 +71,7 @@
       <td>
         <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gazebo-0096D6?style=for-the-badge&logo=gazebo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RViz-4C4C4C?style=for-the-badge&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RViz-4C4C4C?style=for-the-badge&logo=robot&logoColor=white"/>
       </td>
     </tr>
     <tr>
