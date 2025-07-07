@@ -49,6 +49,8 @@
         <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vivado-FFD700?style=for-the-badge&logo=xilinx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gazebo-0096D6?style=for-the-badge&logo=gazebo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RViz-4C4C4C?style=for-the-badge&logo=robot&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -70,8 +72,8 @@
       <td><b>Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gazebo-0096D6?style=for-the-badge&logo=gazebo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RViz-4C4C4C?style=for-the-badge&logo=robot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -80,9 +82,7 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
       </td>
     </tr>
     <tr>
