@@ -74,6 +74,7 @@
         <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
       </td>
     </tr>
     <tr>
