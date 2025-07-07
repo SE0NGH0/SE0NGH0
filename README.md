@@ -75,14 +75,6 @@
       </td>
     </tr>
     <tr>
-      <td><b>Collaboration</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
       <td><b>Libraries</b></td>
       <td>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -91,6 +83,14 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Collaboration</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
       </td>
     </tr>
   </tbody>
