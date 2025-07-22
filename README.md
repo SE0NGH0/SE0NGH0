@@ -151,7 +151,7 @@
 ## 📫 Contact
 
 - 📧 Email: ericsungho@naver.com
-- 📋 Notion Portfolio: [notion.so/seongho-portfolio](https://www.notion.so/printf-n-1ae27600c1fd80849a11f5429d4e6241?pvs=12)  
+- 📋 Notion: [seongho-portfolio](https://www.notion.so/printf-n-1ae27600c1fd80849a11f5429d4e6241?pvs=12)  
 - 🌐 Blog: [hotari.tistory](https://hotari.tistory.com/)
 - 📸 Instagram: (운동계정)[@_0hmai](https://www.instagram.com/_0hmai/)
 
