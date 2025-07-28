@@ -2,15 +2,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=HW%2FSW+Co-Design;C+%7C+Python+%7C+Verilog+HDL;ATmega128A+%7C+STM32;Arduino+%7C+Raspberry+Pi;Jetson+Nano+%7C+Basys3;ROS2+%7C+RTOS+%7C+OpenCV" />
+</p>
+
 ## 💬 About Me
 
 - 실시간 임베디드 시스템과 AI 비전 기반의 자동화 솔루션 개발에 집중하고 있으며 STM32, ROS2, ATmega128A, Raspberry Pi 등을 활용한 프로젝트 경험이 풍부합니다.
 - Verilog 기반 FPGA 시스템 설계, I2C 센서 디바이스 드라이버 개발, Jetson Nano 기반 온디바이스 AI 구현 등 HW/SW 융합 프로젝트를 다수 수행하였습니다.
 - MCU 제어, 센서 데이터 처리, 머신러닝 기반 인식 그리고 RTOS 기반 스케줄링 등 HW/SW 융합 시스템 설계에 흥미를 가지고 있습니다.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F96FF&center=true&vCenter=true&lines=HW%2FSW+Co-Design;C+%7C+Python+%7C+Verilog+HDL;ATmega128A+%7C+STM32;Arduino+%7C+Raspberry+Pi;Jetson+Nano+%7C+Basys3;ROS2+%7C+RTOS+%7C+OpenCV" />
-</p>
 
 ---
 
