@@ -87,14 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SE0NGH0&show_icons=true&theme=default" width="45%" />
-</p>
-
----
-
 ## 🔝 Most Used Languages
 
 <p align="center">
