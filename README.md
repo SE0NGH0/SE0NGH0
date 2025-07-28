@@ -33,9 +33,7 @@
       <td>
         <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
         <img src="https://img.shields.io/badge/ATmega128A-E34F26?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jetson Nano-3DDC84?style=for-the-badge&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/Basys3-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"/>
       </td>
     </tr>
@@ -43,38 +41,23 @@
       <td><b>IDE & Tools</b></td>
       <td>
         <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Atmel Studio-0C2C56?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vivado-FFD700?style=for-the-badge&logo=xilinx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gazebo-0096D6?style=for-the-badge&logo=gazebo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RViz-4C4C4C?style=for-the-badge&logo=robot&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><b>DB & Server</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td><b>OS</b></td>
       <td>
         <img src="https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Raspbian-E43A3A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/ROS2-339933?style=for-the-badge&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -82,8 +65,6 @@
       <td>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Mediapipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
       </td>
